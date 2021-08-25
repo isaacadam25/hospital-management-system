@@ -1,0 +1,4 @@
+{
+  "apiUrl": "/apis/v1/dts",
+  "hospitalApi" : "/apis/v1/makole"
+}
